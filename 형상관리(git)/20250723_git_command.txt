@@ -52,6 +52,10 @@ git remote add origin  "git 주소"
 
 git push 
 git push --set-upstream origin main
+git push -f origin 2nd        # 이것은 무엇인가? 
+
+
+
 
 git fetch
 
@@ -65,7 +69,10 @@ git clone "주소이름"
 merge 
 fastforward / rebase 
 
-
+main 브랜치로 이동
+git switch main
+2. 2nd 브랜치 병합
+git merge 2nd
 
 
 
