@@ -51,12 +51,12 @@ git remote add origin  "git 주소"
 
 
 git push 
-
+git push --set-upstream origin main
 
 git fetch
 
 
-git checkpoint / git switch 
+git checkout / git switch 
  
 
 
