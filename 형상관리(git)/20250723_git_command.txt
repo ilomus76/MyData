@@ -1,5 +1,9 @@
 #### 이곳은 git 관련 정보를 기록해 두는 곳입니다. 
 
+CLI [command line interface]
+git log : 로그 확인 -> 매일 계정과 시간 , 업데이트 내용등을 볼수 있다. 
+
+
 git branch : 파일을 복사해서 업데이트 하는 포인트 
 로컬 폴더나 원격 폴더에서 처음의 git 관리 단계는 master or main 이된다. 
 git branch 로 branch를 하나 만들면 그것은 똑같은 파일을 복제하여 파일을 없데이트 하는 구간이 된다. 
@@ -43,7 +47,7 @@ git reset -hard Head~1
 
 
 원격지 연결
-git remote add origin main "git 주소"
+git remote add origin  "git 주소"
 
 
 git push 
